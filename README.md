@@ -1,6 +1,6 @@
 # Perceptron Project
 
-## This repository contains Python code for implementing and exploring the behavior of a perceptron and a perceptron-based hyperplane guesser. The project is designed for binary classification tasks where the goal is to find a decision boundary (hyperplane) that separates data points into two classes.
+### This repository contains Python code for implementing and exploring the behavior of a perceptron and a perceptron-based hyperplane guesser. The project is designed for binary classification tasks where the goal is to find a decision boundary (hyperplane) that separates data points into two classes.
 
 ## Contents
 
