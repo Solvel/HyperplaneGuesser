@@ -6,8 +6,8 @@
 
 ###    perceptron.py: Implementation of a basic perceptron.
 ###    perceptronGradientDescent.py: Implementation of a perceptron using gradient descent.
-###    main.py: Main script to run the perceptron-based hyperplane guesser, with options to set the type of perceptron and the number of runs.
-###    plotting.py: Module for plotting mints with the learned hyperplane.
+###    main.py: Main script to run the perceptron hyperplane guesser, with options to set the type of perceptron and the number of runs.
+###    plotting.py: Module for plotting graphs using matplotlib.
 
 ## Usage
 
