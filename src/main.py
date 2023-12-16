@@ -6,7 +6,7 @@ from plotting import plot_mints
 
 def main(runs=1, perceptron_type=0):
     # Specify the file path
-    file_path = r'seperable_data_2d.csv'
+    file_path = r'seperable_data_2d.csv' #based on a dataset found here https://github.com/cuekoo/Binary-classification-dataset/blob/master/data0/data.csv
 
     # Read the CSV file into a DataFrame
     df = pd.read_csv(file_path)
