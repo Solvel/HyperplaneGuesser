@@ -6,7 +6,7 @@ from plotting import plot_mints
 
 def main(tries=1, perceptron_type=0):
     # Specify the file path
-    file_path = r'2\seperable_data_2d.csv'
+    file_path = r'seperable_data_2d.csv'
 
     # Read the CSV file into a DataFrame
     df = pd.read_csv(file_path)
