@@ -1,6 +1,6 @@
 # main.py
 from perceptron import Perceptron
-from perceptronGradientDescent import PerceptronGradientDescent
+from perceptron_gradient_descent import PerceptronGradientDescent
 import pandas as pd
 from plotting import plot_mints
 
