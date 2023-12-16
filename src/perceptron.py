@@ -1,4 +1,4 @@
-# perceptron2.py
+# perceptron.py
 import numpy as np
 import pandas as pd
 
